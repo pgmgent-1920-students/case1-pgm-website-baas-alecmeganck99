@@ -4,5 +4,11 @@
         "title": "Graduaat<br>Programmeren",
         "description": "Tijdens het Graduaat Programmeren specialiseer je je in JavaScript, HTML, CSSen UI/UX. Naast deze technische kant, leer je ook om creatief en commercieel te denken. Als programmeur creëer je namelijk niet alleen aantrekkelijke en functionele websites, maar werk je ook samen met heel wat bedrijven.",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/home/images/head.png"
+    },
+    {
+        "id": "header-news",
+        "title": "Nieuws",
+        "description": "Lees over activiteiten waaraan we deelnemen maar die we ook zelf organiseren. Internationale samenwerkingen, tentoonstellingen, studenten die wedstrijden winnen … . Onze studenten zitten niet stil!",
+        "image": "*"
     }
 ]
