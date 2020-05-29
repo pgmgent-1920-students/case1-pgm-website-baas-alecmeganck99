@@ -7,8 +7,8 @@
     },
     {
         "id": "header-news",
-        "title": "Nieuws",
-        "description": "Lees over activiteiten waaraan we deelnemen maar die we ook zelf organiseren. Internationale samenwerkingen, tentoonstellingen, studenten die wedstrijden winnen … . Onze studenten zitten niet stil!",
+        "news": "Nieuws",
+        "description_news": "Lees over activiteiten waaraan we deelnemen maar die we ook zelf organiseren. Internationale samenwerkingen, tentoonstellingen, studenten die wedstrijden winnen … . Onze studenten zitten niet stil!",
         "image": "*"
     }
 ]
