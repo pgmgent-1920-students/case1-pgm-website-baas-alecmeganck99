@@ -10,9 +10,27 @@
         "image04": "*"
     },{
         "id": "2",
-        "name": "Ecodesign ‘Granolaverpakking’",
-        "description": "In de les Verpakkingen krijgt het tweede jaar Grafimediabeleid een echte case: ontwerp een ecologische verpakking voor de klant ‘Wees Gegroet Granola’. Volgens ‘Design Thinking’ verdiepten ze zich eerst in de omgeving van een kind of sporter en zochten ze naar de juiste verpakkingsoplossing, die dan nog eens technologisch juist zit en duurzaam is. Op de foto’s zie je het resultaat van een student.",
-        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_granola_3.jpg",
+        "name": "CURB Skateshop Pop Up Expo",
+        "description": "Laatstejaars Graphic Designers van Arteveldehogeschool ontwerpen 20 skateboards voor de Gentse Curb skateshop. Één student won met haar ontwerp de wedstrijd en haar skateboard zal effectief verkocht worden. Alle 20 ontwerpen hingen twee weken tentoon in het Gentse café Flagent. Het Nieuwsblad interviewde docent Stijn Anseel over dit project.",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_curb-postermockup.jpg",
+        "image01": "*",
+        "image02": "*",
+        "image03": "*",
+        "image04": "*"
+    },{
+        "id": "3",
+        "name": "Rebranding Steden",
+        "description": "Onze opleiding telt ook enkele studieduurverkorters. Deze studenten mochten een eigen branding ontwikkelen voor een stad naar keuze.",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_Geraardsbergen_SilkeDeVleeschouwer.jpg",
+        "image01": "*",
+        "image02": "*",
+        "image03": "*",
+        "image04": "*"
+    },{
+        "id": "4",
+        "name": "Artevelde Institutional Repository",
+        "description": "Aire is de online repository van de Arteveldehogeschool. Het is een doorzoekbaar archief gevuld met publicaties van (oud-)studenten, docenten, onderzoekers, diensten of externe partners van de Arteveldehogeschool. Aire streeft naar Open Access, zodat de publicaties zo veel mogelijk vrij toegankelijk zijn.",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_sm_aire_mockup.jpg",
         "image01": "*",
         "image02": "*",
         "image03": "*",
