@@ -4,36 +4,48 @@
         "name": "Ecodesign ‘Granolaverpakking’",
         "description": "In de les Verpakkingen krijgt het tweede jaar Grafimediabeleid een echte case: ontwerp een ecologische verpakking voor de klant ‘Wees Gegroet Granola’. Volgens ‘Design Thinking’ verdiepten ze zich eerst in de omgeving van een kind of sporter en zochten ze naar de juiste verpakkingsoplossing, die dan nog eens technologisch juist zit en duurzaam is. Op de foto’s zie je het resultaat van een student.",
         "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_granola_3.jpg",
-        "image01": "*",
-        "image02": "*",
-        "image03": "*",
-        "image04": "*"
+        "image01": "https://dl.airtable.com/.attachments/6ddbe1adb305cc6d10649aec685ad1a4/c3b068f3/case_granola_2.jpg",
+        "image02": "https://dl.airtable.com/.attachments/8d2c780d7f7731469b459e5badb5e58b/a1779ab5/case_granola_3.jpg",
+        "image03": "https://dl.airtable.com/.attachments/769fa7d027a1f1c64b3d340581a5a8a8/6ac081fd/granola.jpg",
+        "image04": "https://dl.airtable.com/.attachments/12d96981202f5017d6f9663a3f8be424/2af12d1d/WGG.jpg",
+        "richting": "Grafimediabeleid",
+        "student": "2GMB",
+        "tags": "Verpakkingstechnologie"
     },{
         "id": "2",
         "name": "CURB Skateshop Pop Up Expo",
         "description": "Laatstejaars Graphic Designers van Arteveldehogeschool ontwerpen 20 skateboards voor de Gentse Curb skateshop. Één student won met haar ontwerp de wedstrijd en haar skateboard zal effectief verkocht worden. Alle 20 ontwerpen hingen twee weken tentoon in het Gentse café Flagent. Het Nieuwsblad interviewde docent Stijn Anseel over dit project.",
         "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_curb-postermockup.jpg",
-        "image01": "*",
-        "image02": "*",
-        "image03": "*",
-        "image04": "*"
+        "image01": "https://dl.airtable.com/.attachments/8d340c2b55f6a550cf00e985770be148/8fef2703/71713089_106930043997299_1678383815870169116_n1.jpg",
+        "image02": "https://dl.airtable.com/.attachments/335bc302d80d98e5cc5de18a332f07a5/7fed8632/20200219_101230.jpg",
+        "image03": "https://dl.airtable.com/.attachments/202b680b75cd19e0224d86bfc6bfd781/cf77bd1f/20200219_101210.jpg",
+        "image04": "https://dl.airtable.com/.attachments/c0d3473de8a62bce60c623ab1d8d64a5/fb69dca2/20200219_101222.jpg",
+        "richting": "Grafimediabeleid",
+        "student": "2GMB",
+        "tags": "Verpakkingstechnologie"
     },{
         "id": "3",
         "name": "Rebranding Steden",
         "description": "Onze opleiding telt ook enkele studieduurverkorters. Deze studenten mochten een eigen branding ontwikkelen voor een stad naar keuze.",
         "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_Geraardsbergen_SilkeDeVleeschouwer.jpg",
-        "image01": "*",
-        "image02": "*",
-        "image03": "*",
-        "image04": "*"
+        "image01": "https://dl.airtable.com/.attachments/ed19b6cd3279c89e56e611ca9fa2214c/2089d84b/kaapstad_ReyneLaura.jpg",
+        "image02": "https://dl.airtable.com/.attachments/9883c667659dd2bb8c3a1a7bfde08b00/de9432cd/amersfoort_MargauxVandevelde.jpg",
+        "image03": "https://dl.airtable.com/.attachments/f4b260cda34d888ab80a04985de51939/21281e9b/Lommel_RavenVanDaal.jpg",
+        "image04": "*",
+        "richting": "Grafimediabeleid",
+        "student": "2GMB",
+        "tags": "Verpakkingstechnologie"
     },{
         "id": "4",
         "name": "Artevelde Institutional Repository",
         "description": "Aire is de online repository van de Arteveldehogeschool. Het is een doorzoekbaar archief gevuld met publicaties van (oud-)studenten, docenten, onderzoekers, diensten of externe partners van de Arteveldehogeschool. Aire streeft naar Open Access, zodat de publicaties zo veel mogelijk vrij toegankelijk zijn.",
         "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-alecmeganck99/static/cases/images/case_sm_aire_mockup.jpg",
-        "image01": "*",
-        "image02": "*",
-        "image03": "*",
-        "image04": "*"
+        "image01": "https://dl.airtable.com/.attachments/3e5e22fd72b91eb88127d07d6187a5fb/c1fe7009/projects_lg_aire_zoeken.jpg",
+        "image02": "https://dl.airtable.com/.attachments/da5c3cdafca1623803b7af675792d90f/9824232d/projects_lg_aire_toegangsticket.jpg",
+        "image03": "https://dl.airtable.com/.attachments/a8eca170841cfd65b578385f4587f8f2/c78eec3c/projects_lg_aire_home.jpg",
+        "image04": "https://dl.airtable.com/.attachments/eaeb819bcea9b4f5ea28c67f4b7a49f3/af8c5045/aire_mockup01.jpg",
+        "richting": "Grafimediabeleid",
+        "student": "2GMB",
+        "tags": "Verpakkingstechnologie"
     }
 ]
