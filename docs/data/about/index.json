@@ -1,5 +1,32 @@
 [
     {
-        "id": "1"
+        "id": "1",
+        "title": "gastcolleges",
+        "linkto": ""
+    },
+    {
+        "id": "2",
+        "title": "workshops",
+        "linkto": ""
+    },
+    {
+        "id": "3",
+        "title": "bedrijfsbezoek",
+        "linkto": ""
+    },
+    {
+        "id": "4",
+        "title": "eindwerken",
+        "linkto": ""
+    },
+    {
+        "id": "5",
+        "title": "jurylid",
+        "linkto": ""
+    },
+    {
+        "id": "6",
+        "title": "stages",
+        "linkto": ""
     }
 ]
